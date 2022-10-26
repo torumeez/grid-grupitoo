@@ -1,5 +1,9 @@
 .container{
+<<<<<<< HEAD
     background-color: rgb(108, 253, 253);
+=======
+    background-color: aqua;
+>>>>>>> 4dc50525113b8c8b7a8318d95827d9b317e7a381
     display: grid;
     grid-template-rows: auto 1fr;
     min-height:100vh;

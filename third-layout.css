@@ -1,6 +1,6 @@
 .third-layout > * {
     border: 1px solid black;
-    background-color: red;
+    background-color: lightgreen;
 }
 
 aside{
@@ -22,10 +22,12 @@ p, header{
     display:grid;
     grid-template-rows: 50px auto 50px;
     grid-template-columns: 1fr 3fr;
-    background-color: rgb(43, 226, 73);
+    background-color: burlywood;
     padding:1rem;
     min-height: 100vh;
     gap:10px;
+    margin: 10rem;
+    max-width: 1500px;
 }
 article{
     display:grid;
